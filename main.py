@@ -201,7 +201,7 @@ def predict(pil_img):
 # ================= Gradio app =================
 def main():
     with gr.Blocks(title="Scene Text Detection & OCR") as demo:
-        gr.Markdown("## Scene Text Detection & Recognition (YOLO + CRNN)")
+        gr.Markdown("##📦 Scene Text Detection & Recognition (YOLO + CRNN)")
 
         with gr.Row():
             with gr.Column():
