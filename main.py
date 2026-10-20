@@ -6,8 +6,8 @@ import timm
 from ultralytics import YOLO
 import gradio as gr
 
-text_det_model_path = './best results/scene detection/best.pt'
-text_rec_model_path = './best results/text recognition/best_3.pt'
+text_det_model_path = 'best.pt'
+text_rec_model_path = 'ocr_crnn.pt'
 
 yolo_model = YOLO(text_det_model_path)
 
