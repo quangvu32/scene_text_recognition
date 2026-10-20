@@ -16,7 +16,7 @@ Please download the trained model weights before running the application:
 
 | Model | Size | Download Link |
 | :--- | :--- | :--- |
-| **YOLO Text Detector** (`best.pt`) | ~14 MB | [Download](https://drive.google.com/drive/folders/1wAa-aSI1fgBSPKQO8gwlfpMDte1GvwO1?usp=drive_link) |
-| **CRNN Text Recognizer** (`ocr_crnn.pt`) | ~200 MB | [Download](https://drive.google.com/drive/folders/1DXG3fmV4FaheaRYhyxDQQoXY50vAIx9y?usp=drive_link) |
+| **YOLO Text Detector** (`best.pt`) | ~77 MB | [Download](https://drive.google.com/drive/folders/1wAa-aSI1fgBSPKQO8gwlfpMDte1GvwO1?usp=drive_link) |
+| **CRNN Text Recognizer** (`ocr_crnn.pt`) | ~720 MB | [Download](https://drive.google.com/drive/folders/1DXG3fmV4FaheaRYhyxDQQoXY50vAIx9y?usp=drive_link) |
 
 Place the downloaded `.pt` files into the root directory of the project.
